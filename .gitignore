@@ -28,6 +28,7 @@
 *.gcno
 *.gcda
 *.gz
+!rootfs.cpio.gz
 *.i
 *.ko
 *.lex.c
